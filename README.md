@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm KritiiSharma</h1>
+<h1 align="center">Hi 👋, I'm Kriti Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritiisharma" alt="kritiisharma" /></a> </p>
-
+<hr>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 - 🌱 I’m currently learning **advance java, php,Python etc**
 
 - 📝 I regularly write articles on [https://kritisharmablogger.blogspot.com/](https://kritisharmablogger.blogspot.com/)
