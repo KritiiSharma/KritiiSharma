@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <hr>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
-- 🌱 I’m currently learning **advance java, php,Python etc**
+- 🌱 I’m currently learning **advance java, php,javascript etc**
 
 -  I'm passionate frontend developer from India
 - 📝 I regularly write articles on [https://kritisharmablogger.blogspot.com/](https://kritisharmablogger.blogspot.com/)
@@ -10,8 +10,9 @@
 - 📫 How to reach me **kriti8942@gmail.com**
 
 - 📄 Know about my experiences [beginner](beginner)
-
+- 🤝  I'm open to collaborating on Web Development Projects 🌱
 - ⚡ Fun fact **I am funny🤣**
+- 📑 Check out my Resume at :
 
 <hr>
   
@@ -23,6 +24,7 @@
                 developement using open source technology(Node.js, php),design(working closly with
                 designers),database(Mysql,Oracle).I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness.
                     My strength as a self-motivated person and a good learner. Positive thinker & a hard worker. 
+                    I am a motivated Computer Science student with an 8.29 CGPA, proficient in Java, PHP, HTML, CSS, and JavaScript. My academic excellence complements my analytical thinking and adaptability. I've developed real-world applications like a Bank Management System and Online Car Wash Booking System. Beyond coding, my passion for Artificial Intelligence drives me to stay updated with the latest trends. I'm eager to contribute my skills and collaborate in innovative projects that shape the future of technology.
                     </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
