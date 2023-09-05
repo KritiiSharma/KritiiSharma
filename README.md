@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [beginner](beginner)
 - 🤝  I'm open to collaborating on Web Development Projects 🌱
 - ⚡ Fun fact **I am funny🤣**
-- 📑 Check out my Resume at :
+- 📑 Check out my Resume at :https://drive.google.com/file/d/1CC5uNQjYloZIp9jgpjZbq0-XzarjJpY2/view?usp=sharing
 
 <hr>
   
